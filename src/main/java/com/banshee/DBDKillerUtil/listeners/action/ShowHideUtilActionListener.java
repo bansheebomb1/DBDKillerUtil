@@ -1,9 +1,9 @@
-package com.banshee.listeners.action;
+package com.banshee.DBDKillerUtil.listeners.action;
 
 import java.awt.event.ActionEvent;
 import java.awt.event.ActionListener;
 
-import com.banshee.form.KillerInfoForm;
+import com.banshee.DBDKillerUtil.form.KillerInfoForm;
 
 public class ShowHideUtilActionListener implements ActionListener {
 

@@ -1,4 +1,4 @@
-package com.banshee.listeners.key;
+package com.banshee.DBDKillerUtil.listeners.key;
 
 
 import java.util.logging.Level;
@@ -11,7 +11,7 @@ import org.jnativehook.NativeInputEvent;
 import org.jnativehook.keyboard.NativeKeyEvent;
 import org.jnativehook.keyboard.NativeKeyListener;
 
-import com.banshee.listeners.action.SurvivalLabelTimerActionListener;
+import com.banshee.DBDKillerUtil.listeners.action.SurvivalLabelTimerActionListener;
 
 
 public class DecisiveStrikeTimerKeyListener implements NativeKeyListener {

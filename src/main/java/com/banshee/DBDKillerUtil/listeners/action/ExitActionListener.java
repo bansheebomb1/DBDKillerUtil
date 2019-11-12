@@ -1,4 +1,4 @@
-package com.banshee.listeners.action;
+package com.banshee.DBDKillerUtil.listeners.action;
 
 import java.awt.SystemTray;
 import java.awt.TrayIcon;

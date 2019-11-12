@@ -1,4 +1,4 @@
-package com.banshee;
+package com.banshee.DBDKillerUtil;
 
 
 
@@ -10,7 +10,7 @@ import org.springframework.boot.CommandLineRunner;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 import org.springframework.boot.builder.SpringApplicationBuilder;
 
-import com.banshee.form.KillerInfoForm;
+import com.banshee.DBDKillerUtil.form.KillerInfoForm;
 
 
 @SpringBootApplication
